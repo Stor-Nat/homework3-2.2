@@ -14,7 +14,7 @@ https://github.com/netology-code/javaqa-homeworks/tree/master/programming#%D0%B7
 
 В результате тестирования
 тест показал, что при суммровании двух видов бонусов 0,3 и 0,6 , результат неверный
-создан баг-репорт https://github.com/Stor-Nat/
+создан баг-репорт https://github.com/Stor-Nat/homework3-2.2/issues/1
 
 Необходимо проверить тип данных, присвоенный переменнымё
 
